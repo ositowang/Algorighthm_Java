@@ -13,7 +13,7 @@
       "cwd": "${workspaceFolder}",
       "console": "internalConsole",
       "stopOnEntry": false,
-      "mainClass": "moveZeros",
+      "mainClass": "binarySearch",
       "args": ""
     },
     {
