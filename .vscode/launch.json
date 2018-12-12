@@ -2,6 +2,12 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - wordPattern",
+      "request": "launch",
+      "mainClass": "wordPattern"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - moveZeros",
       "request": "launch",
       "cwd": "${workspaceFolder}",
