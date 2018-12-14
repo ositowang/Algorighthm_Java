@@ -2,6 +2,12 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - Boomerangs",
+      "request": "launch",
+      "mainClass": "Boomerangs"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - wordPattern",
       "request": "launch",
       "mainClass": "wordPattern"
