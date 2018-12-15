@@ -2,22 +2,42 @@
   "configurations": [
     {
       "type": "java",
-      "name": "CodeLens (Launch) - binarySearch",
+      "name": "CodeLens (Launch) - removeDuplicates",
       "request": "launch",
       "cwd": "${workspaceFolder}",
       "console": "internalConsole",
       "stopOnEntry": false,
-      "mainClass": "binarySearch",
+      "mainClass": "removeDuplicates",
       "args": ""
     },
     {
       "type": "java",
-      "name": "CodeLens (Launch) - Main",
+      "name": "CodeLens (Launch) - removeElement",
       "request": "launch",
       "cwd": "${workspaceFolder}",
       "console": "internalConsole",
       "stopOnEntry": false,
-      "mainClass": "Main",
+      "mainClass": "removeElement",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Solution",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "Solution",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Solution1",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "Solution1",
       "args": ""
     }
   ]
