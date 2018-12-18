@@ -2,9 +2,12 @@
   "configurations": [
     {
       "type": "java",
-<<<<<<< HEAD
-      "name": "CodeLens (Launch) - removeDuplicates",
-=======
+      "name": "CodeLens (Launch) - containsDuplicate3",
+      "request": "launch",
+      "mainClass": "containsDuplicate3"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - Boomerangs",
       "request": "launch",
       "mainClass": "Boomerangs"
@@ -18,7 +21,6 @@
     {
       "type": "java",
       "name": "CodeLens (Launch) - moveZeros",
->>>>>>> e8b3f6ed2e3add3a29f1f453169a00b61bbb72c6
       "request": "launch",
       "cwd": "${workspaceFolder}",
       "console": "internalConsole",
